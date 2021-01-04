@@ -1,0 +1,9 @@
+{
+    "homepage": "http://www.winterdrache.de/freeware/png2ico/",
+    "version": "2002-12-08",
+    "license": "freeware",
+    "description": "Converts PNG files to Windows icon resource files. If you're looking for a program to create a favicon.ico for your website, look no further.",
+    "url": "http://www.winterdrache.de/freeware/png2ico/data/png2ico-win-2002-12-08.zip",
+    "hash": "09CAFE3F62A7827634AB4FCBA630774AB0984BBFFAAB1489BD6FBB21C30818CB",
+    "bin": "png2ico.exe"
+}
